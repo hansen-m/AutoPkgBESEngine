@@ -17,7 +17,7 @@ Installation
 
 - lxml
 - requests
-- [besapi](https://github.com/CLCMacTeam/besapi)
+- [besapi](https://github.com/hansen-m/besapi)
 
 ***The easy way...***
 
